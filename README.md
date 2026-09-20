@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá! Eu sou o [Igor] 👋
+  # Olá! Eu sou o Igor 👋
   
   <p align="center">
     <b>Software Developer | Front-End, Mobile & AI Enthusiast</b>
