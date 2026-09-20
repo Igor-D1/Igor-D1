@@ -1,19 +1,22 @@
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/Igor-D1.png" width="100" style="border-radius: 50%;" alt="Foto de perfil do Igor">
+    </td>
+    <td>
+      <h1>Olá! Eu sou o Igor 👋</h1>
+      <p><b>Software Developer | Front-End, Mobile & AI Enthusiast</b></p>
+      <a href="https://www.linkedin.com/in/igor-dantas-0092b2384/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:igordantas.pb2026@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  # Olá! Eu sou o Igor 👋
-  
-  <p align="center">
-    <b>Software Developer | Front-End, Mobile & AI Enthusiast</b>
-  </p>
-
-  <a href="https://www.linkedin.com/in/igor-dantas-0092b2384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:igordantas.pb2026@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-</div>
+---
 
 ---
 
