@@ -29,6 +29,7 @@ Combino uma base acadêmica ampla com a prática em tecnologias de ponta como **
 - 🔭 **Foco Atual:** Aplicações Web & Mobile escaláveis (**React, TypeScript, Dart/Flutter**) e APIs leves com **Flask**.
 - 🌱 **Aprofundando em:** Modelos de **Machine Learning (ML)**, arquiteturas limpas (DDD em Java) e soluções em Nuvem.
 - 💡 **Interesses:** IA Generativa, IoT, UX/UI Mobile e Engenharia de Software.
+- 🎓 **Formação:** Cursando Engenharia / Tecnologia em Análise e Desenvolvimento de Sistemas na FIAP (Previsão de conclusão: 2027)
 
 ---
 
