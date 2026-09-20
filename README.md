@@ -107,8 +107,9 @@ Combino uma base acadêmica ampla com a prática em tecnologias de ponta como **
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Igor-D1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-D1&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Igor-D1&layout=compact&theme=tokyonight"/>
+  
 </div>
 
 ---
