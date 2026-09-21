@@ -114,9 +114,3 @@ Combino uma base acadêmica ampla com a prática em tecnologias de ponta como **
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-D1&theme=tokyonight"/>
   
 </div>
-
----
-
-<div align="center">
-  <sub>Desenvolvido com Flutter, React, Flask & muita dedicação 🚀</sub>
-</div>
